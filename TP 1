@@ -1,0 +1,34 @@
+#Definiendo 3 variables y precios
+Produc1 = "jean"
+Produc2 = "camisa"
+Produc3 = "zapatillas" 
+price1 = 1500
+price2 = 3000
+price3 = 800
+
+print("COMPRANDO JEAN Y CAMISA TE LLEVAS LAS ZAPAS DE REGAL0 TE AHORRAS", price3)
+
+#Variale gravity
+GRAVITY = 9.81
+b = GRAVITY
+
+# Programa suma
+A = int(input("ingresa el numero 1"))
+B=  int(input("ingresa el numero 2"))
+C=  int(input("ingresa el numero 3"))
+
+Suma = A + B + C
+print("la Suma es", Suma)
+
+nombre = "fer"
+print(nombre)
+print(type (nombre))
+edad = 30
+print(edad)
+print(type (edad))
+altura=1.80
+print(altura)
+print(type(altura))
+casado=False
+print(casado )
+print(type(casado))
